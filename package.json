@@ -1,0 +1,26 @@
+{
+  "name": "Vuex-RxJs",
+  "version": "1.0.0",
+  "description": "My extraordinary Nuxt.js project",
+  "author": "Kedra, Krystian",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.6.0",
+    "@nuxtjs/axios": "^5.0.0",
+    "nuxt": "^1.0.0",
+    "rxjs": "^6.5.3",
+    "vue-rx": "^6.2.0",
+    "vuetify": "^1.0.19"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  }
+}
